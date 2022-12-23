@@ -1,0 +1,128 @@
+.navigTop {
+    background-color: rgb(61, 61, 61);
+    display: flex;
+    position: sticky;
+    height: 8rem;
+    width: 83rem;
+    margin-left: -1rem;
+    margin-top: -1rem;
+    border-bottom: 8px black solid;
+}
+
+body {
+    background-color: rgb(223, 222, 222);
+}
+
+.h1 {
+    position: relative;
+    color: rgb(246, 252, 252);
+    left: 2ch;
+    top: 3.5ch;
+    font-size: 30px;
+    font-family: 'Chivo Mono', monospace;
+}
+
+.buttonInH1 {
+    position: relative;
+    color: rgb(246, 252, 252);
+    left: 29ch;
+    bottom: 3ch;
+    font-size: 30px;
+    font-family: 'Chivo Mono', monospace;
+    background: none;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    transform: background 0.1s ease-out; 
+}
+
+.buttonInH1:hover {
+    background: linear-gradient(to right, #88847b 0%, #996d6d 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+
+.portfolioInH1 {
+    position: relative;
+    color: rgb(246, 252, 252);
+    left: 31ch;
+    bottom: 3ch;
+    font-size: 30px;
+    font-family: 'Chivo Mono', monospace;
+    background: none;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    transform: background 0.1s ease-out; 
+}
+
+.portfolioInH1:hover {
+    background: linear-gradient(to right, #88847b 0%, #996d6d 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+
+.projectInH1 {
+    position: relative;
+    color: rgb(246, 252, 252);
+    left: 33ch;
+    bottom: 3ch;
+    font-size: 30px;
+    font-family: 'Chivo Mono', monospace;
+    background: none;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    transform: background 0.1s ease-out; 
+}
+
+.projectInH1:hover {
+    background: linear-gradient(to right, #88847b 0%, #996d6d 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+
+.contactInH1 {
+    position: relative;
+    color: rgb(246, 252, 252);
+    left: 35ch;
+    bottom: 3ch;
+    font-size: 30px;
+    font-family: 'Chivo Mono', monospace;
+    background: none;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    transform: background 0.1s ease-out; 
+}
+
+.contactInH1:hover {
+    background: linear-gradient(to right, #88847b 0%, #996d6d 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+
+.fbLogo {
+    position: relative;
+    left: 1ch;
+    bottom: 18.8ch;
+    border-radius: 5rem;
+}
+
+.emailLogo {
+    position: relative;
+    left: 9ch;
+    bottom: 25ch;
+}
+
+.firstHeading {
+    position: absolute;
+    font-size: 40px;
+    font-family: 'Chivo Mono', monospace;
+    bottom: 28ch;
+    left: 2ch;
+}

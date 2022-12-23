@@ -1,0 +1,14 @@
+# ignore ALL the .png file
+.png
+
+# ignore ALL the .jpg file
+.jpg
+
+# ignore ALL the .txt file
+.txt
+
+# ignore ALL the .jpeg file
+.jpeg
+
+# ignore ALL the .hintrc file
+.hintrc
