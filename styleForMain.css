@@ -1,0 +1,67 @@
+.navigTop {
+    background-color: rgb(61, 61, 61);
+    position: fixed;
+    height: 8rem;
+    width: 80rem;
+    margin-left: -1rem;
+    margin-top: -2rem;
+    border-bottom: 8px black solid;
+}
+
+body {
+    background-color: rgb(223, 222, 222);
+    height: 300rem;
+}
+
+.h1 {
+    position: relative;
+    color: rgb(246, 252, 252);
+    left: 2ch;
+    top: 3.5ch;
+    font-size: 30px;
+    font-family: 'Chivo Mono', monospace;
+}
+
+.fbLogo {
+    position: relative;
+    top: -3.5rem;
+    left: 2rem;
+    border-radius: 5rem;
+}
+
+.emailLogo {
+    position: relative;
+    top: -3.8rem;
+    left: 2rem;
+}
+
+nav a {
+    position: relative;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Chivo Mono', monospace;
+    color: whitesmoke;
+    text-decoration: none;
+    margin-right: 40px;
+    left: 38rem;
+    bottom: 2.85rem;
+    transform: color 0.5s ease-out;
+}
+
+a:hover {
+    color: rgb(185, 241, 245);
+
+}
+
+.welcome {
+    position: static;
+  	background-color: rgb(230, 230, 230);
+  	font-size: 25px;
+  	width: 75.5rem;
+  	top: 7.5rem;
+  	left: -1rem;
+  	padding-left: 5rem;
+		padding-top: 10rem;
+  	padding-bottom: 10rem;
+}
+
